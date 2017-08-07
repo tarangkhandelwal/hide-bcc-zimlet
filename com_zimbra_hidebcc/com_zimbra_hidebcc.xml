@@ -1,0 +1,4 @@
+<zimlet name="com_zimbra_hidebcc" version="1.0.0.3" label="Hide BCC" description="Hide BCC">
+    <include>hidebcc.js</include>
+    <handlerObject>ZHideBCC</handlerObject>
+</zimlet>
